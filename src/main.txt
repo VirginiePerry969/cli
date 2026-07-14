@@ -56,3 +56,4 @@ CLI for building, running, testing, and managing your Emacs Lisp dependencies
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# handle the edge case from the last release
